@@ -1,4 +1,4 @@
-# How to create a whatsapp clone using svelte and pocketbase
+# How to create charts in svelte and chart.js
 
 ## Steps to duplicate
 
